@@ -1,5 +1,7 @@
 # Target Brazil E-commerce SQL Analysis (2016-2018)
 
+![Preview](https://github.com/user-attachments/assets/512fc791-36ee-497b-8a59-a9c08992578d)
+
 ## Project Overview
 
 This project analyzes a dataset of 100,000 orders placed on Target's Brazil platform between 2016 and 2018. The goal was to extract valuable insights into order trends, customer distribution, economic impact, logistics, and payment methods using SQL, and to provide actionable recommendations based on the findings.
